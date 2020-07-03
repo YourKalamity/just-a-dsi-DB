@@ -6,7 +6,7 @@
         "extension" : "nds",
         "asset" : "0",
         "author" : "jonatan6",
-        "link" : ""
+        "link" : "",
         "location" : {
             "roms" : "all"
         }
@@ -18,7 +18,10 @@
         "extension" : "nds",
         "asset" : "1",
         "author" : "Universal-Team",
-        "link" : ""
+        "link" : "",
+        "location" :{
+            "roms" :"all"
+        }
     },
     {
         "title" : "Aperture Science DS",
@@ -26,7 +29,10 @@
         "repo" : "smealum/portalDS",
         "extension" : "zip",
         "author" : "smealum",
-        "link" : "https://github.com/smealum/portalDS/releases/download/r1/ASDS_r1.zip"
+        "link" : "https://github.com/smealum/portalDS/releases/download/r1/ASDS_r1.zip",
+        "location" :{
+            "roms" : "all"
+        }
 
     },
     {
@@ -35,7 +41,10 @@
         "repo" : "",
         "extension" : "zip",
         "author" : "Jen Anderson",
-        "link" : "http://www.naughtynathan.co.uk/colors/colors_1_10bbeta2.zip"
+        "link" : "http://www.naughtynathan.co.uk/colors/colors_1_10bbeta2.zip",
+        "location" :{
+            "roms" : "all"
+        }
 
     },
     {
@@ -44,7 +53,11 @@
         "repo" : "",
         "extension" : "zip",
         "author" : "CBDS",
-        "link" : "https://github.com/smealum/portalDS/releases/download/r1/ASDS_r1.zip"
+        "link" : "http://cbds.free.fr/Softwares/ComicBookDS/Fichiers/ComicBookDS_V3.0.zip",
+        "location" : {
+            "roms" : "all"
+        }
+
 
     },
     {
@@ -53,7 +66,11 @@
         "repo" : "",
         "extension" : "zip",
         "author" : "DSBible team",
-        "link" : "https://www.gamebrew.org/images/a/ac/Dsbible251.zip"
+        "link" : "https://www.gamebrew.org/images/a/ac/Dsbible251.zip",
+        "location" : {
+            "roms" : "all"
+        }
+
 
     },
     {
@@ -62,7 +79,10 @@
         "repo" : "",
         "extension" : "zip",
         "author" : "smealum",
-        "link" : "https://github.com/YourKalamity/just-a-dsi-DB/raw/master/rehosted/dscraft.zip"
+        "link" : "https://github.com/YourKalamity/just-a-dsi-DB/raw/master/rehosted/dscraft.zip",
+        "location" : {
+            "roms" : "all"
+        }
     },
     {
         "title" : "DSEins",
@@ -80,8 +100,10 @@
         "repo" : "RocketRobz/dsdoom",
         "extension" : "nds",
         "author" : "RocketRobz",
-        "link" : "https://github.com/RocketRobz/dsdoom/releases/download/1.2.1-fix/dsdoom.nds"
-
+        "link" : "https://github.com/RocketRobz/dsdoom/releases/download/1.2.1-fix/dsdoom.nds",
+        "location" : {
+            "roms" :"all"
+        }
     },
     {
         "title" : "DSFTP v2.6",
@@ -98,7 +120,7 @@
         "repo" : "",
         "extension" : "zip",
         "author" : "ELTH",
-        "link" : "http://beyondds.free.fr/projects/Everlasting/EverlastingTH.zip"
+        "link" : "http://beyondds.free.fr/projects/Everlasting/EverlastingTH.zip",
         "location" : {
             "roms" : "all"
         }
@@ -111,7 +133,7 @@
         "extension" : "7z",
         "asset" : "", 
         "author" : "RocketRobz",
-        "link" : ""
+        "link" : "",
         "location" : {
             "roms" : "all"
         }
@@ -124,7 +146,7 @@
         "extension" : "zip",
         "asset" : "", 
         "author" : "fancypantalons",
-        "link" : "https://github.com/fancypantalons/nethackds/releases/download/3.4.3r2/NetHackDS-3.4.3r2.zip"
+        "link" : "https://github.com/fancypantalons/nethackds/releases/download/3.4.3r2/NetHackDS-3.4.3r2.zip",
         "location" : {
             "roms" : "all"
         }
@@ -137,7 +159,7 @@
         "extension" : "zip",
         "asset" : "", 
         "author" : "NitroTracker Team",
-        "link" : "http://web.archive.org/web/20190122024458/http://nitrotracker.tobw.net/NitroTracker-v0.4.zip"
+        "link" : "http://web.archive.org/web/20190122024458/http://nitrotracker.tobw.net/NitroTracker-v0.4.zip",
         "location" : {
             "roms" : "all"
         }
@@ -150,7 +172,7 @@
         "extension" : "7z",
         "asset" : "", 
         "author" : "Universal-Team",
-        "link" : ""
+        "link" : "",
         "location" : {
             "root" : "_nds",
             "roms" : "Relaunch.nds"
