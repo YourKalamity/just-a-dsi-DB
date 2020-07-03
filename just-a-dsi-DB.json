@@ -7,6 +7,9 @@
         "asset" : "0",
         "author" : "jonatan6",
         "link" : ""
+        "location" : {
+            "roms" : "all"
+        }
     },
     {
         "title" : "Pokémon-Chest",
@@ -96,6 +99,9 @@
         "extension" : "zip",
         "author" : "ELTH",
         "link" : "http://beyondds.free.fr/projects/Everlasting/EverlastingTH.zip"
+        "location" : {
+            "roms" : "all"
+        }
 
     },
     {
@@ -106,6 +112,9 @@
         "asset" : "", 
         "author" : "RocketRobz",
         "link" : ""
+        "location" : {
+            "roms" : "all"
+        }
 
     },
     {
@@ -116,6 +125,9 @@
         "asset" : "", 
         "author" : "fancypantalons",
         "link" : "https://github.com/fancypantalons/nethackds/releases/download/3.4.3r2/NetHackDS-3.4.3r2.zip"
+        "location" : {
+            "roms" : "all"
+        }
 
     },
     {
@@ -126,6 +138,9 @@
         "asset" : "", 
         "author" : "NitroTracker Team",
         "link" : "http://web.archive.org/web/20190122024458/http://nitrotracker.tobw.net/NitroTracker-v0.4.zip"
+        "location" : {
+            "roms" : "all"
+        }
 
     },
     {
@@ -136,7 +151,10 @@
         "asset" : "", 
         "author" : "Universal-Team",
         "link" : ""
-
+        "location" : {
+            "root" : "_nds",
+            "roms" : "Relaunch.nds"
+        }
     }   
     
 
