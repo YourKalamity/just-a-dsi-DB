@@ -54,6 +54,14 @@
 
     },
     {
+        "title" : "DSCraft",
+        "github" : "False",
+        "repo" : "",
+        "extension" : "zip",
+        "author" : "smealum",
+        "link" : "https://github.com/YourKalamity/just-a-dsi-DB/raw/master/rehosted/dscraft.zip"
+    },
+    {
         "title" : "DSEins",
         "github" : "True",
         "repo" : "Universal-Team/3DEins",
@@ -129,7 +137,7 @@
         "author" : "Universal-Team",
         "link" : ""
 
-    },
+    }   
     
 
 
