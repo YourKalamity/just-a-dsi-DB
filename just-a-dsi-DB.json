@@ -1,0 +1,88 @@
+[
+    {
+        "title" : "Tic-Tac-DS",
+        "github" : "True",
+        "repo" : "Jonatan6/Tic-Tac-DS",
+        "extension" : "nds",
+        "asset" : "0",
+        "author" : "jonatan6",
+        "link" : ""
+    },
+    {
+        "title" : "Pokémon-Chest",
+        "github" : "True",
+        "repo" : "Universal-Team/pkmn-chest",
+        "extension" : "nds",
+        "asset" : "1",
+        "author" : "Universal-Team",
+        "link" : ""
+    },
+    {
+        "title" : "Aperture Science DS",
+        "github" : "False",
+        "repo" : "smealum/portalDS",
+        "extension" : "zip",
+        "author" : "smealum",
+        "link" : "https://github.com/smealum/portalDS/releases/download/r1/ASDS_r1.zip"
+
+    },
+    {
+        "title" : "ComicBookDS",
+        "github" : "False",
+        "repo" : "",
+        "extension" : "zip",
+        "author" : "CBDS",
+        "link" : "https://github.com/smealum/portalDS/releases/download/r1/ASDS_r1.zip"
+
+    },
+    {
+        "title" : "DSBible",
+        "github" : "False",
+        "repo" : "",
+        "extension" : "zip",
+        "author" : "DSBible team",
+        "link" : "https://www.gamebrew.org/images/a/ac/Dsbible251.zip"
+
+    },
+    {
+        "title" : "DSEins",
+        "github" : "True",
+        "repo" : "Universal-Team/3DEins",
+        "extension" : "nds",
+        "asset" : "2", 
+        "author" : "smealum",
+        "link" : "https://github.com/smealum/portalDS/releases/download/r1/ASDS_r1.zip"
+
+    },
+    {
+        "title" : "Aperture Science DS",
+        "github" : "False",
+        "repo" : "smealum/portalDS",
+        "extension" : "zip",
+        "author" : "smealum",
+        "link" : "https://github.com/smealum/portalDS/releases/download/r1/ASDS_r1.zip"
+
+    },
+    {
+        "title" : "Aperture Science DS",
+        "github" : "False",
+        "repo" : "smealum/portalDS",
+        "extension" : "zip",
+        "author" : "smealum",
+        "link" : "https://github.com/smealum/portalDS/releases/download/r1/ASDS_r1.zip"
+
+    },
+    {
+        "title" : "Aperture Science DS",
+        "github" : "False",
+        "repo" : "smealum/portalDS",
+        "extension" : "zip",
+        "author" : "smealum",
+        "link" : "https://github.com/smealum/portalDS/releases/download/r1/ASDS_r1.zip"
+
+    }
+    
+
+
+
+]
