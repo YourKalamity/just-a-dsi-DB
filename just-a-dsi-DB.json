@@ -27,6 +27,15 @@
 
     },
     {
+        "title" : "Colors!",
+        "github" : "False",
+        "repo" : "",
+        "extension" : "zip",
+        "author" : "Jen Anderson",
+        "link" : "http://www.naughtynathan.co.uk/colors/colors_1_10bbeta2.zip"
+
+    },
+    {
         "title" : "ComicBookDS",
         "github" : "False",
         "repo" : "",
@@ -50,37 +59,77 @@
         "repo" : "Universal-Team/3DEins",
         "extension" : "nds",
         "asset" : "2", 
-        "author" : "smealum",
+        "author" : "Universal-Team",
         "link" : "https://github.com/smealum/portalDS/releases/download/r1/ASDS_r1.zip"
 
     },
     {
-        "title" : "Aperture Science DS",
+        "title" : "DSDoom",
         "github" : "False",
-        "repo" : "smealum/portalDS",
-        "extension" : "zip",
-        "author" : "smealum",
-        "link" : "https://github.com/smealum/portalDS/releases/download/r1/ASDS_r1.zip"
+        "repo" : "RocketRobz/dsdoom",
+        "extension" : "nds",
+        "author" : "RocketRobz",
+        "link" : "https://github.com/RocketRobz/dsdoom/releases/download/1.2.1-fix/dsdoom.nds"
 
     },
     {
-        "title" : "Aperture Science DS",
+        "title" : "DSFTP v2.6",
         "github" : "False",
-        "repo" : "smealum/portalDS",
+        "repo" : "",
         "extension" : "zip",
-        "author" : "smealum",
-        "link" : "https://github.com/smealum/portalDS/releases/download/r1/ASDS_r1.zip"
+        "author" : "DSFTP Team",
+        "link" : "https://www.gamebrew.org/images/5/50/DSFTP26.zip"
 
     },
     {
-        "title" : "Aperture Science DS",
+        "title" : "Everlasting Love : Tomorrow Hill",
         "github" : "False",
-        "repo" : "smealum/portalDS",
+        "repo" : "",
         "extension" : "zip",
-        "author" : "smealum",
-        "link" : "https://github.com/smealum/portalDS/releases/download/r1/ASDS_r1.zip"
+        "author" : "ELTH",
+        "link" : "http://beyondds.free.fr/projects/Everlasting/EverlastingTH.zip"
 
-    }
+    },
+    {
+        "title" : "GodMode9i",
+        "github" : "True",
+        "repo" : "RocketRobz/GodMode9i",
+        "extension" : "7z",
+        "asset" : "", 
+        "author" : "RocketRobz",
+        "link" : ""
+
+    },
+    {
+        "title" : "NetHackDS",
+        "github" : "False",
+        "repo" : "fancypantalons/nethackds",
+        "extension" : "zip",
+        "asset" : "", 
+        "author" : "fancypantalons",
+        "link" : "https://github.com/fancypantalons/nethackds/releases/download/3.4.3r2/NetHackDS-3.4.3r2.zip"
+
+    },
+    {
+        "title" : "NitroTrackerDS",
+        "github" : "False",
+        "repo" : "",
+        "extension" : "zip",
+        "asset" : "", 
+        "author" : "NitroTracker Team",
+        "link" : "http://web.archive.org/web/20190122024458/http://nitrotracker.tobw.net/NitroTracker-v0.4.zip"
+
+    },
+    {
+        "title" : "Relaunch",
+        "github" : "True",
+        "repo" : "Universal-Team/Relaunch",
+        "extension" : "7z",
+        "asset" : "", 
+        "author" : "Universal-Team",
+        "link" : ""
+
+    },
     
 
 
