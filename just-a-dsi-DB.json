@@ -91,7 +91,10 @@
         "extension" : "nds",
         "asset" : "2", 
         "author" : "Universal-Team",
-        "link" : "https://github.com/smealum/portalDS/releases/download/r1/ASDS_r1.zip"
+        "link" : "",
+        "location" : {
+            "roms" : "all"
+        }
 
     },
     {
@@ -111,7 +114,10 @@
         "repo" : "",
         "extension" : "zip",
         "author" : "DSFTP Team",
-        "link" : "https://www.gamebrew.org/images/5/50/DSFTP26.zip"
+        "link" : "https://www.gamebrew.org/images/5/50/DSFTP26.zip",
+        "location" : {
+            "roms" : "all"
+        }
 
     },
     {
