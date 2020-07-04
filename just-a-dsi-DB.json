@@ -180,8 +180,7 @@
         "author" : "Universal-Team",
         "link" : "",
         "location" : {
-            "root" : "Relaunch/_nds/Relaunch",
-            "roms" : "Relaunch/Relaunch.nds"
+            "roms" : "all"
         }
     }   
     
