@@ -133,6 +133,18 @@
 
     },
     {
+        "title" : "Fuzed-Neo",
+        "github" : "False",
+        "repo" : "relminator/Fuzed-Neo/",
+        "extension" : "nds",
+        "asset" : "0", 
+        "author" : "relminator",
+        "link" : "https://github.com/relminator/Fuzed-Neo/raw/master/FuzedNeo.nds",
+        "location" : {
+            "roms" : "all"
+        }
+    },
+    {
         "title" : "GodMode9i",
         "github" : "True",
         "repo" : "RocketRobz/GodMode9i",
@@ -179,6 +191,18 @@
         "asset" : "0", 
         "author" : "Universal-Team",
         "link" : "",
+        "location" : {
+            "roms" : "all"
+        }
+    },
+    {
+        "title" : "SpaceImpakto-DS",
+        "github" : "False",
+        "repo" : "relminator/SpaceImpakto-DS",
+        "extension" : "nds",
+        "asset" : "0", 
+        "author" : "relminator",
+        "link" : "https://github.com/relminator/SpaceImpakto-DS/raw/master/SpaceImpaktoDS.nds",
         "location" : {
             "roms" : "all"
         }
