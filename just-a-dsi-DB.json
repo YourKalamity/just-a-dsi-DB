@@ -145,19 +145,6 @@
         }
     },
     {
-        "title" : "GodMode9i",
-        "github" : "True",
-        "repo" : "RocketRobz/GodMode9i",
-        "extension" : "7z",
-        "asset" : "0", 
-        "author" : "RocketRobz",
-        "link" : "",
-        "location" : {
-            "roms" : "GodMode9i.nds"
-        }
-
-    },
-    {
         "title" : "NetHackDS",
         "github" : "False",
         "repo" : "fancypantalons/nethackds",
