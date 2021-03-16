@@ -11,6 +11,20 @@
             "roms" : "all"
         }
     },
+    
+    {
+        "title" : "JPN -> EUR DSi Patcher",
+        "github" : "False",
+        "repo" : "",
+        "extension" : "zip",
+        "asset" : "", 
+        "author" : "MightyMax",
+        "link" : "https://gbatemp.net/attachments/patcher-zip.246246/",
+        "location" : {
+            "roms" : "all"
+        }
+
+    },
     {
         "title" : "Pokémon-Chest",
         "github" : "True",
