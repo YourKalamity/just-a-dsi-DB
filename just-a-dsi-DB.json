@@ -1,11 +1,22 @@
 [
     {
+        "title" : "Pistol-Pong-DS",
+        "github" : "True",
+        "repo" : "Jonatan6/Pistol-Pong-DS",
+        "extension" : "nds",
+        "asset" : "0",
+        "author" : "Jonatan6",
+        "link" : "",
+        "location" : {
+            "roms" : "all"
+        }
+    },{
         "title" : "Tic-Tac-DS",
         "github" : "True",
         "repo" : "Jonatan6/Tic-Tac-DS",
         "extension" : "nds",
         "asset" : "0",
-        "author" : "jonatan6",
+        "author" : "Jonatan6",
         "link" : "",
         "location" : {
             "roms" : "all"
