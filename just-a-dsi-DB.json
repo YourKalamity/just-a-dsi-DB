@@ -128,9 +128,9 @@
         "title" : "DSDoom",
         "github" : "False",
         "repo" : "RocketRobz/dsdoom",
-        "extension" : "nds",
+        "extension" : "zip",
         "author" : "WinterMute",
-        "link" : "https://github.com/RocketRobz/dsdoom/releases/download/1.2.1-fix/dsdoom.nds",
+        "link" : "https://github.com/YourKalamity/just-a-dsi-DB/raw/master/rehosted/dsdoom.zip",
         "location" : {
             "roms" :"all"
         }
