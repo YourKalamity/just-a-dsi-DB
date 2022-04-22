@@ -75,19 +75,6 @@
 
     },
     {
-        "title" : "DSBible",
-        "github" : "False",
-        "repo" : "",
-        "extension" : "zip",
-        "author" : "DSBible team",
-        "link" : "https://www.gamebrew.org/images/a/ac/Dsbible251.zip",
-        "location" : {
-            "roms" : "all"
-        }
-
-
-    },
-    {
         "title" : "DSCraft",
         "github" : "False",
         "repo" : "",
