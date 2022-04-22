@@ -110,18 +110,6 @@
         }
     },
     {
-        "title" : "DSFTP v2.6",
-        "github" : "False",
-        "repo" : "",
-        "extension" : "zip",
-        "author" : "DSFTP Team",
-        "link" : "https://www.gamebrew.org/images/5/50/DSFTP26.zip",
-        "location" : {
-            "roms" : "all"
-        }
-
-    },
-    {
         "title" : "Everlasting Love : Tomorrow Hill",
         "github" : "False",
         "repo" : "",
